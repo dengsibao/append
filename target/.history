@@ -1,0 +1,35 @@
+gen-idea
+run
+dir
+help
+settings
+fork
+fork ture
+fork in run := true
+fork
+help fork
+fork true
+help
+version
+reload
+fork
+help fork
+fork in run := true
+help
+export fork in run := true
+fork
+set fork in run := true
+fork
+settings
+scalaHome
+inspect fork
+setting fork = true
+setting *:run::fork true
+set fork true
+set help
+set
+set fork in run := true
+run
+fork
+set fork := true
+run
